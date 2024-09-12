@@ -12,4 +12,4 @@ The aim of this project is to develop a robust classifier capable of recognizing
 - **Model Fine-Tuning:** Enhance the model's responsiveness to custom voice commands by fine-tuning on a smaller set of personalized samples.
 
 
-GDrive: [https://drive.google.com/drive/folders/1HLC9wf5ZHKYQ991dLnmBhxbP95t_FvjV?usp=sharing] 
+GDrive: [https://drive.google.com/drive/u/1/folders/1J0OIfauSGXNvaBIbaW4M1OtQVNtUfV9L] 
